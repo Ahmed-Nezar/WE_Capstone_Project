@@ -1,1 +1,1 @@
-# WE_Capstone_Project
+Instance Segmentation Project Using pixelib & MASKRCNN model
